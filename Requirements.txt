@@ -1,0 +1,17 @@
+To run this project, we will need the following Python libraries and tools:
+
+- Python 3.7+
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow 
+- Matplotlib or Seaborn (for data visualization)
+- Jupyter Notebook 
+
+## Data Requirements
+
+We will need the following datasets for this project:
+- **Landslide Inventory Dataset:** This contains historical records of landslides.
+- **Elevation Data:** Digital Elevation Model (DEM) data.
+- **Rainfall Data:** Historical rainfall data.
+- **Soil Type Data:** Information about soil types in the area.
